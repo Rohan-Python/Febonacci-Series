@@ -1,6 +1,6 @@
 # Febonacci-Series
 It shows Febonacci Series as output
-nterms = 1000000
+nterms = 10000000
 n1, n2 = 0, 1
 count = 0
 
